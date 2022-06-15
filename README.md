@@ -11,7 +11,7 @@ A small class library for incrementing the last numeric part of a string; Most c
 
 Basic increment:
 ```aspx-csharp
-stirng testString = "INV/2206/001";
+string testString = "INV/2206/001";
 
 Console.WriteLine(testString.Add(1));      // INV/2206/002
 Console.WriteLine(testString.Add(10));     // INV/2206/011
@@ -20,7 +20,7 @@ Console.WriteLine(testString.Add(999));    // INV/2206/1000
 
 With letters:
 ```aspx-csharp
-stirng testString = "INV/2206/001ASF";
+strong testString = "INV/2206/001ASF";
 
 Console.WriteLine(testString.Add(1));      // INV/2206/002ASF
 Console.WriteLine(testString.Add(10));     // INV/2206/011ASF
