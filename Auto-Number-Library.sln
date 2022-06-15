@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto-Number-Console", "Auto-Number-Console\Auto-Number-Console.csproj", "{B1E6B10F-4207-4C9F-9E64-03C3EEFB9D77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{0E73EEE5-DF64-4F48-B1CA-B70E4F442A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E73EEE5-DF64-4F48-B1CA-B70E4F442A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E73EEE5-DF64-4F48-B1CA-B70E4F442A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E6B10F-4207-4C9F-9E64-03C3EEFB9D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E6B10F-4207-4C9F-9E64-03C3EEFB9D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E6B10F-4207-4C9F-9E64-03C3EEFB9D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E6B10F-4207-4C9F-9E64-03C3EEFB9D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
